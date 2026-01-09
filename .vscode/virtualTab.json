@@ -5,6 +5,7 @@
     "files": [
       "index.html",
       "src/style/variables.css",
+      "src/style/style.css",
       "src/style/fonts.css",
       "src/style/normalize.css"
     ],
